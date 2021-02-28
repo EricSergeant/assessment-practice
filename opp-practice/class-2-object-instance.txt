@@ -1,0 +1,13 @@
+Object: Cold War Globe
+
+Attributes:
+circumference = 35
+fullColor = false
+standMaterial = "metal"
+yearCreated = 1972
+
+Methods:
+changeSize: circumference = 40 (changes the circumference attribute)
+addColor: fullColor = true (changes the fullColor attribute to true)
+updateStand: standMaterial = "plastic" (changes the standMaterial attribute)
+updateYear: yearCreated = 1981 (changes the yearCreated attribute)
