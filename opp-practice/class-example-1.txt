@@ -1,0 +1,13 @@
+Class:  Desk
+
+Attributes:
+style (string)
+height (integer)
+desktopMaterial (string)
+hasDrawer (boolen)
+
+Methods:
+changeStyle (changes style attribute)
+raise (increases height attribute)
+changeDesktopMaterial (updates the material in the desktopMaterial attribute)
+addDrawer (changes hasDrawer attribute to true)
