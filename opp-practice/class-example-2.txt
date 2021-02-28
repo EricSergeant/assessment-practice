@@ -1,0 +1,13 @@
+Class: Globe
+
+Attributes:
+circumference (integer)
+fullColor (boolean)
+standMaterial (string)
+yearCreated (integer)
+
+Methods:
+changeSize (changes the circumference attribute)
+addColor (changes the fullColor attribute to true)
+updateStand (changes the standMaterial attribute)
+updateYear (changes the yearCreated attribute)
