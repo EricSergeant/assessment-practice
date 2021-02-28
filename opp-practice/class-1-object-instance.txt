@@ -1,0 +1,12 @@
+Object: Best Yet Student Desk
+
+style = "student"
+height = 58
+desktopMaterial = "bamboo"
+hasDrawer = false
+
+Methods:
+changeStyle: style = "teacher" (changes style attribute to teacher)
+raise: height = 62 (increases height attribute)
+changeDesktopMaterial: desktopMaterial = "cherry wood" (updates the material in the desktopMaterial attribute)
+addDrawer: hasDrawer = true (changes hasDrawer attribute to true)
